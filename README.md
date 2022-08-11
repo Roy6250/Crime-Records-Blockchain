@@ -1,4 +1,16 @@
 ## Blockchain based Criminal Evidences Management System
+## SnapShots of the website
+* Login Page
+![image(1)](https://user-images.githubusercontent.com/94747922/184237767-6fa98851-459b-49a4-9c26-6cdec1a88d9c.png)
+
+* Adding Record
+![image (1)](https://user-images.githubusercontent.com/94747922/184237748-6a53fa41-08ff-4084-83a4-b0727ce10668.png)
+
+* Dashboard
+![image(2)](https://user-images.githubusercontent.com/94747922/184237758-40910df8-d473-499c-b929-c59c04fb091d.png)
+
+
+
 ### Introduction:
 * Criminal records are highly sensitive public records. Tampering of criminal records is a criminal offence where a person alters, conceals, falsifies, or destroys evidence with the intent to interfere with an investigation by a law-enforcement, governmental, or regulatory authority.
 * There are registered cases where the suspect/convict escapes tampering evidences, hence there is need of a reliable, fool proof system to maintain and manage crime records.
